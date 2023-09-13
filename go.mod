@@ -1,4 +1,4 @@
-module dbaccess
+module github.com/mariosplit/dbaccess
 
 go 1.20
 
